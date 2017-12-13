@@ -13,7 +13,7 @@ public class SortTest extends TestCase {
         super.setUp();
         nums = new int[]{10, 20, 2, 3, 1, 100, 45, 22, 51, 21};
     }
-
+    ttt
     public void tearDown() throws Exception {
         for (int i = 0 ; i < nums.length;i++){
             System.out.print(nums[i] + " ");
