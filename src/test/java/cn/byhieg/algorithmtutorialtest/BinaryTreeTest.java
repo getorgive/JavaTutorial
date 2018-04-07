@@ -8,7 +8,7 @@ import junit.framework.TestCase;
  * Mail to byhieg@gmail.com
  */
 public class BinaryTreeTest extends TestCase {
-
+	//sd
     BinaryTree.Node root = new BinaryTree.Node(1);
     public void setUp() throws Exception {
         super.setUp();
